@@ -27,7 +27,7 @@
   
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/anfsusax) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/anfsusax) vc pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
