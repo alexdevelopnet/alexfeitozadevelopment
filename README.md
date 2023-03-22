@@ -2,7 +2,7 @@
 
 
  
- <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+ <img src="[https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.michaelpage.co.id%2Fadvice%2Fjob-description%2Ftechnology%2Fsoftware-developer&psig=AOvVaw2kN0Hbw3wVlHGgate_7z3P&ust=1679570446603000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCQoM-17_0CFQAAAAAdAAAAABAE)">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
