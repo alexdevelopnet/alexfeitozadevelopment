@@ -13,7 +13,7 @@
  Ferramentas e tecnologias
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodingmama.gitbook.io%2Fcsharp-for-beginners%2F&psig=AOvVaw1_rydfwzYgueLFzYuKSBam&ust=1679572021869000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPC1_cC77_0CFQAAAAAdAAAAABAD)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
  
