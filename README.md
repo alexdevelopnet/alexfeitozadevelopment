@@ -22,8 +22,7 @@
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/anfsusax">Instagram</a> a>. Segue lá e vem bater um papo!</p>
  <p align="left">☕🎮 amo café, adoro ler livros .</p>
 </div>
-  
-</br>
+  </br>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/anfsusax) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
