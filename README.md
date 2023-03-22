@@ -1,38 +1,22 @@
-img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
 
-</br>
-</br>
+<h1 align="center"> ## Oi sou o <strong> AlexDevelopNet<strong/> desenvolvedor e criador de conteúdo de programação 👋</h1>
 
-<div dsplay="inline-block">
- 
- <h1 align="left">Jeniffer Bittencourt</h1>
- <a href="https://www.instagram.com/jeniblo_dev/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
-
-
-
-
-
-</br>
-</br>
-
-## Hello, Devs!!
-
-Tenho 29 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></code>
+
+
 <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
