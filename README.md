@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi sou o AlexDevelopNet desenvolvedor e criador de conteúdo de programação 👋
 
 <!--
 **alexdevelopnet/alexdevelopnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.michaelpage.co.id%2Fadvice%2Fjob-description%2Ftechnology%2Fsoftware-developer&psig=AOvVaw1MwIQGmTLTUl5W5SEUeTQ7&ust=1679569899319000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCQksqz7_0CFQAAAAAdAAAAABAE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
