@@ -1,5 +1,5 @@
 
-<h1 align="center"> ## Oi sou o <strong> AlexDevelopNet<strong/> desenvolvedor e criador de conteúdo de programação 👋</h1>
+<h2 align="center"> ## Oi sou o <strong> AlexDevelopNet<strong/> desenvolvedor e criador de conteúdo de programação 👋</h2>
 
 
 
@@ -19,10 +19,10 @@
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do Scuba Team da <a href="https://www.alura.com.br/">Alura</a>;</p>
+
  <p align="left">📚 Tenho estudado React Native e iniciei meus estudos para desenvolver apps;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/anfsusax">Instagram</a> a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 amo café, adoro ler livros .</p>
+ <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/anfsusax">Instagram</a> a>. Segue lá!</p>
+ <p align="left">☕🎮 amo café, adoro ler livros 📚.</p>
 </div>
   
 </br>
