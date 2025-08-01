@@ -1,5 +1,5 @@
 <h1 align="center">Alex Feitoza (AlexDevelopNet) 👨‍💻</h1>
-<h3 align="center">.NET Senior Developer • Clean Architecture • Docker • Kafka • SQL/NoSQL • CI/CD • Creator</h3>
+<h3 align="center">.NET Senior Developer • Clean Architecture • Docker • Kafka • SQL/NoSQL • CI/CD -Angular 
 
 <p align="center">
   <a href="#pt-br">🇧🇷 Português</a> | <a href="#en-us">🇺🇸 English</a>
